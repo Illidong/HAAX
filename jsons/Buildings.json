@@ -16,7 +16,7 @@
 		"cost": 240,
 		"food": 20,
 		"production": 10,
-		"uniques": ["[+4 Food] from [Lakes] tiles [in this city]",
+		"uniques": ["[+4 Food] from [Lakes] tiles [in this city]"],
 		"hurryCostModifier": 250,
 		"maintenance": 1,
 		"percentStatBonus": {"food": 150},
