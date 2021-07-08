@@ -1,1 +1,2 @@
-A silly mod for [Unciv](https://github.com/yairm210/Unciv/), meant for the sort of player who enjoys unfair fighting. Every little unique advantage from every nation in the base game has been piled in here.
+uses SpacedOutChicken's module Upside down(https://github.com/SpacedOutChicken/Upside-Down.git).
+Some upside down units have very big changes. Be warned, this mod can be called many things, but I can assure you that in no way will this be called balanced.
