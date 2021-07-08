@@ -388,7 +388,7 @@
 		"requiredTech": "Mobile Tactics",
 		"requiredResource": "Iron",
                 "promotions": ["Great Generals I","Great Generals II","Quick Study","Rejuvenation","Haka War Dance","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Amphibious","Medic","Medic II","Cover I","Cover II","Sentry","Ambush I","Ambush II","Mobility","March"],
-		"uniques": ["+[20]% combat bonus in [Foreign Land]","+[300]% Strength vs [City]"],
+		"uniques": ["+[20]% combat bonus in [Foreign Land]","+[300]% Strength vs [City]",
 			"+10 HP when healing", "Can build [Land] improvements on tiles",
 			"+[33]% combat bonus in [Forest]",
 			"+[33]% combat bonus in [Jungle]",
