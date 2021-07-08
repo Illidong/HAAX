@@ -2,11 +2,11 @@
 	{
 		"name": "Iaom",
 		"uniqueTo": "Upside-Down",
-		"culture": 1,
+		"culture": 2,
 		"turnsToBuild": 4,
-		"uniques": ["[+1 Culture] for each adjacent [Iaom]",
+		"uniques": ["[+2 Culture] for each adjacent [Iaom]",
 			"Can only be built on Coastal tiles",
-			"[+1 Gold] once [Flight] is discovered"],
+			"[+2 Gold] once [Flight] is discovered"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
@@ -14,22 +14,22 @@
 		"name": "Ecarret mraf",
 		"uniqueTo": "Upside-Down",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"food": 1,
+		"food": 2,
 		"turnsToBuild": 7,
-		"uniques": ["[+1 Food] for each adjacent [Mountain]",
+		"uniques": ["[+2 Food] for each adjacent [Mountain]",
 			"Cannot be built on bonus resource",
-			"[+1 Food] on [fresh water] tiles once [Civil Service] is discovered",
-			"[+1 Food] on [non-fresh water] tiles once [Fertilizer] is discovered"],
+			"[+2 Food] on [fresh water] tiles once [Civil Service] is discovered",
+			"[+2 Food] on [non-fresh water] tiles once [Fertilizer] is discovered"],
 		"techRequired": "Construction",
 		"shortcutKey": "F"
 	},
 	{
 		"name": "Redlop",
 		"uniqueTo": "Upside-Down",
-		"food": 3,
+		"food": 6,
 		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
 		"turnsToBuild": 7,
-		"uniques": ["[+1 Production, +2 Gold] once [Economics] is discovered"],
+		"uniques": ["[+2 Production, +4 Gold] once [Economics] is discovered"],
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	}
